@@ -6,8 +6,8 @@ This interactive project presents a graphical user interface (GUI) where randoml
 Tech Stack : Python
 
 
-Done By Praveen Raj 
+                                                                                                Done By Praveen Raj 
 
-Reg No. 20214546
-
-Motilal Institute of Technology 
+                                                                                                Reg No. - 20214546
+                                                                                                
+                                                                                                Motilal Institute of Technology 
