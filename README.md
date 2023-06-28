@@ -10,4 +10,4 @@ Tech Stack : Python
 
                                                                                                 Reg No. - 20214546
                                                                                                 
-                                                                                                Motilal Institute of Technology 
+                                                                                                Motilal National Institute of Technology 
